@@ -10,6 +10,7 @@
     "countries": ["de"],
     "license": "LGPL-3",
     "development_status": "Beta",
+    "images": ["static/description/main_screenshot.png"],
     "depends": ["base_address_extended"],
     "data": [
         "data/res.city.csv",
