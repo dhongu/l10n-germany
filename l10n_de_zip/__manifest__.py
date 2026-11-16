@@ -9,6 +9,7 @@
     "category": "Localization",
     "countries": ["de"],
     "license": "LGPL-3",
+    "consultant_sheet": "full",
     "development_status": "Beta",
     "images": ["static/description/main_screenshot.png"],
     "depends": ["base_address_extended"],
